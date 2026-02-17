@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Platix</h1>
 <h3 align="center">A passionate frontend & backend developer from Germany</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=platixumdot" alt="platixumdot" /></a> </p>
-
 - 🔭 I’m currently working on [PlatixHost](https://platix-host.eu)
 
 <h3 align="left">Connect with me:</h3>
